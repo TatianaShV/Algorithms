@@ -50,7 +50,9 @@ k строках записаны коды букв в формате "letter: c
 
 В первой строке выходного файла выведите строку s. Она должна состоять из строчных букв латинского алфавита. Гарантируется, что длина правильного ответа не превосходит 10^4 символов.
 
-6. [***Очередь с приоритетами***  Через maxHeap](https://github.com/TatianaShV/Algorithms/blob/main/GreedyAlgorithms/src/MaxHeap.java) [ Через minHeap](https://github.com/TatianaShV/Algorithms/blob/main/GreedyAlgorithms/src/MinHeap.java)
+6. ***Очередь с приоритетами***
+   * [Через maxHeap](https://github.com/TatianaShV/Algorithms/blob/main/GreedyAlgorithms/src/MaxHeap.java)
+   * [ Через minHeap](https://github.com/TatianaShV/Algorithms/blob/main/GreedyAlgorithms/src/MinHeap.java)
 
 Первая строка входа содержит число операций 1 ≤ n ≤ 10^5. Каждая из последующих n строк задают операцию одного из следующих двух типов:
 
