@@ -60,6 +60,7 @@ Insert x, где 0 ≤ x ≤ 10^9 — целое число;
 ExtractMax. 
 Первая операция добавляет число x в очередь с приоритетами, вторая — извлекает максимальное число и выводит его.
 
-7. [***Двоичный поиск***](https://github.com/TatianaShV/Algorithms/blob/main/binarySearch/src/main/java/groupId/BinarySearch.java)
+## "Разделяй и властвуй"
+1.  [***Двоичный поиск***](https://github.com/TatianaShV/Algorithms/blob/main/binarySearch/src/main/java/groupId/BinarySearch.java)
 
 В первой строке даны целое число 1 ≤ n ≤ 10^5 и массив A[1…n] из n различных натуральных чисел, не превышающих 10^9, в порядке возрастания, во второй — целое число 1 ≤ k ≤ 10^5 и k натуральных чисел b1,...bk, не превышающих 10^9. Для каждого i от 1 до k необходимо вывести индекс 1 ≤ j ≤ n, для которого A[j]=bi, или −1, если такого  j нет.
